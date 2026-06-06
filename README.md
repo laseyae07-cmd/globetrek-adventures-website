@@ -85,11 +85,6 @@ Staff
 Email: staff@globetrek.local
 Password: staff123
 
-Customer
-Email: customer@globetrek.local
-Password: customer123
-```
-
 ## Main Pages
 
 - Home page
