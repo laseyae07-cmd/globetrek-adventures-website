@@ -103,14 +103,7 @@ Password: staff123
 
 ## Screenshots
 
-Add your own screenshots inside the `screenshots/` folder before submitting or presenting your portfolio. Suggested screenshots:
-
-- Home page
-- Packages page
-- Booking form
-- Login page
-- Customer dashboard
-- Admin dashboard
+Screenshots are added in the 'screenshots' folder
 
 ## Project Purpose
 
@@ -122,4 +115,4 @@ Laseya Ekanayake
 
 ## Note
 
-This project is created for educational and portfolio purposes. The payment page is a placeholder and should be integrated with a secure payment gateway before real-world use.
+This project is created for educational purposes. The payment page is a placeholder and should be integrated with a secure payment gateway before real-world use.
